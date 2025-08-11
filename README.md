@@ -6,3 +6,5 @@ This is the first Git commit that I have ever done from the terminal
 This is me editing in VS code
 
 This is me seeing if I can add all
+
+Seeing if I can edit the commit in vscode
